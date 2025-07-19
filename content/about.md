@@ -6,11 +6,11 @@ aliases = ["about-us", "about-gonci", "contact"]
 author = "Gonci"
 +++
 
-Passionate about cybersecurity and specialized in penetration testing (Pentesting) to identify, analyze and mitigate vulnerabilities in systems and networks. Experienced in performing security analysis, vulnerability scanning and exploitation of security flaws using tools such as Nmap, Burp Suite, Sqlmap, John The Ripper etc.
+Passionate about cybersecurity with a strong focus on penetration testing to identify, analyze, and mitigate vulnerabilities in systems and networks. Experienced in conducting security assessments, vulnerability scanning, and exploitation of security flaws using industry-standard tools such as Nmap, Burp Suite, SQLMap, and John the Ripper, among others.
 
-I am driven by constant updating on new threats and attack techniques, with the aim of strengthening the digital security of companies and anticipating potential risks.
+I am committed to staying up to date with the latest threats and attack techniques, with the goal of strengthening organizations’ digital security and proactively addressing potential risks.
 
-My areas of interest include:
-- Web Pentesting
+My key areas of interest include:
+- Web Application Pentesting
 - Active Directory Pentesting
-- Vulnerability analysis and exploitation
+- Vulnerability Analysis and Exploitation
